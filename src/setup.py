@@ -19,7 +19,7 @@ with open('README.md') as fh:
 
 setuptools.setup(
     name='clusterfuzz',
-    version='2.6.0',
+    version='2.6.1',
     author='ClusterFuzz authors',
     author_email='clusterfuzz-dev@googlegroups.com',
     description='ClusterFuzz',
